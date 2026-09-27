@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT MASS",
+  "description": "Spectacular AI Laboratory Assistant. Ask anything. Learn anything. Build anything. Powered by next-generation intelligence across mathematics, science, coding, and creative problem-solving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
